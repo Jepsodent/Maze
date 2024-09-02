@@ -1,3 +1,8 @@
 # Maze
 
-Hi
+
+Silahkan ketik ini di terminal
+
+> pip install pygame
+
+
